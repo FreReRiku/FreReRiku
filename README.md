@@ -1,8 +1,20 @@
 # My Profile
-## FreReRiku
+## あいさつ
+こんにちは。FreReRikuです。よろしくお願いします。
 
-### About
-こんにちは。FreReRikuです。軽く自己紹介します。
+## 生まれ & 在住
+関東生まれで、高校(+1年間)まではずっと地元で暮らしていました。<br>
+大学時代は九州の方で暮らしていました。<br>
+現在は関東圏内の大学で大学院生しています。
+
+## 趣味
+- ギター（人前で演奏できるレベルじゃないです）
+- ランニング（この前はじめてフルマラソン走りました）
+
+## プログラミングに関して
+2023年の10月ごろに独学で学び始めました。Python、HTML・CSS、Node.js、PHPの勉強をしています。
+フロントエンドもバックエンドも興味あります。
+
 
 <!---
 FreReRiku/FreReRiku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
