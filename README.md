@@ -11,7 +11,7 @@
 🎸🏃☕
 
 ## プログラミングに関して
-2023年の10月ごろに独学で学び始めました。Python、HTML・CSS、JavaScript、Node.js、PHPの勉強をしています。
+2023年の10月ごろに独学で学び始めました。Python、HTML・CSS、JavaScript、Node.js、PHPの勉強をしています。<br>
 フロントエンドもバックエンドも興味あります。
 
 
